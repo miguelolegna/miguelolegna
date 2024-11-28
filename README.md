@@ -2,7 +2,6 @@
 
 <h1 align="left">Hello! My name is Miguel Correia</h1>
 <h3 align="left">I'm a programming enthusiast from Portugal 🇵🇹.<br>🌍 Currently studying at the Escola Profissional do Fundão.<br>💪 I'm eager to learn and grow. I'm a quick learner and enjoy tackling new challenges.<br>🤝 Let's connect and build something great together!</h3> 
-###
 <h4 align="left">Feel free to check my Portfolio ☺️<br>Or contact me here 👇</h4>
 <div align="left">
   <a href="www.linkedin.com/in/miguel-ângelo-esteves-correia-896050332" target="_blank">
@@ -18,7 +17,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-###
+<hr>
 <p>Some of the tecnologies I used 🤓:</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
