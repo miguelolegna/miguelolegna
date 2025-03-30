@@ -10,9 +10,9 @@
   <a href="mailto:miguelcorreia@epfundao.edu.pt" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/nickk._.271/" target="_blank">
+  <!-- <a href="https://www.instagram.com/nickk._.271/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo"  />
-  </a>
+  </a> -->
   <a href="https://wa.me/928114233" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="35" alt="whatsapp logo"  />
   </a>
