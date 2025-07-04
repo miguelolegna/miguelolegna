@@ -1,7 +1,7 @@
 <br clear="both">
 
 <h1 align="left">Hello! My name is Miguel Correia</h1>
-<h3 align="left">I'm a programming enthusiast from Portugal 🇵🇹.<br>🌍 Currently studying at the Escola Profissional do Fundão.<br>💪 I'm eager to learn and grow. I'm a quick learner and enjoy tackling new challenges.<br>🤝 Let's connect and build something great together!</h3> 
+<h3 align="left">I'm a FrontEnd developer and Designer from Portugal 🇵🇹.<br>🌍 Currently studying at the Escola Profissional do Fundão.<br>💪 I'm eager to learn and grow. I'm a quick learner and enjoy tackling new challenges.<br>🤝 Let's connect and build something great together!</h3> 
 <h4 align="left">
   Feel free to check my <a href="https://portfolio-miguelc.vercel.app/" target="_blank">Portfolio</a> <br>
   Or contact me here 👇
